@@ -3,7 +3,8 @@
 **This is not a serious piece of code and I mostly uploaded it here just to share/archive it. If you wish to improve it. Please make a fork instead of sending pull requests, I'm too god damn lazy to maintain this thing**
 
 Does exactly what it sounds like.  
-It transforms everything that's not MP3 into V0 MP3s using magic (AKA ffmpeg)
+It transforms ~~everything~~ FLACs and M4As that are not MP3 into V0 MP3s using magic (AKA ffmpeg)  
+Also copies mp3s to the new folder or something
 
 This was made because my phone is shit at handling anything that's not MP3. (fkn lumia phones)
 
